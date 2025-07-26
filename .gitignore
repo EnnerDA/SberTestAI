@@ -1,0 +1,9 @@
+.idea
+.venv
+.env
+**/__pycache__/
+russian-trusted-cacert.pem
+proba.py
+
+
+

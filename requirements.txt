@@ -1,0 +1,5 @@
+dotenv
+langchain
+langchain_gigachat
+langgraph
+pandas
